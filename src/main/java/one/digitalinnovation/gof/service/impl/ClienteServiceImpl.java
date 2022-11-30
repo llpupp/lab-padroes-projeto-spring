@@ -71,5 +71,4 @@ public class ClienteServiceImpl implements ClienteService {
         // Inserir Cliente, vinculando o Endereco (novo ou existente).
         clienteRepository.save(cliente);
     }
-
 }
