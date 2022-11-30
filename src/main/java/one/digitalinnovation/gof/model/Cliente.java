@@ -15,6 +15,8 @@ public class Cliente {
     @ManyToOne
     private Endereco endereco;
 
+    //getters and setters added (alt insert - generate)
+
     public Long getId() {
         return id;
     }
