@@ -8,7 +8,6 @@ import javax.persistence.ManyToOne;
 
 @Entity
 public class Cliente {
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
