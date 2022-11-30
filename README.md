@@ -3,6 +3,6 @@
 <br/>Usado o Spring - Spring Initializr + SpringBoot + Framework IntelliJ IDEA<br/>
 <br/>Utilizado o Swagger - Descrição de interface para descrever API Restfull expressas usando json<br/>
 <br/>\_Padrões utilizados no projeto\_<br/>
-<br/>Singleton (Criacional) - @Beans + @Autowired
-<br/>Strategy (Comportamental) - @Service + @Repository
-<br/>Facade (Estrutural) - Abstração das complexidades das integrações - SpringData JPA + ViaCep (Feign)
+<br/>* Singleton (Criacional) - @Beans + @Autowired
+<br/>* Strategy (Comportamental) - @Service + @Repository
+<br/>* Facade (Estrutural) - Abstração das complexidades das integrações - SpringData JPA + ViaCep (Feign)
